@@ -38,6 +38,11 @@ This project demonstrates **subnetting inside an organization** and how devices 
 1. Open the **Router**.
 2. Assign IPs to the router interfaces:
    ```bash
+   Router> enable
+   Router#show ip interface brief
+   
+   Router# configure terminal
+   
    Router(config)# interface FastEthernet0/0
    Router(config-if)# ip address 192.168.0.1 255.255.255.192
    Router(config-if)# no shutdown
