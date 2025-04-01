@@ -80,4 +80,4 @@ This project demonstrates **subnetting inside an organization** and how devices 
 - **Network is fully functional and demonstrates proper subnetting.**
 
 ## **Conclusion**
-This setup demonstrates **organizational subnetting**, **switch-based local communication**, and **router-based inter-subnet communication** in **Cisco Packet Tracer**. 🚀
+This setup demonstrates **organizational subnetting**, **switch-based local communication**, and **router-based inter-subnet communication** in **Cisco Packet Tracer**. 
