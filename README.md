@@ -4,7 +4,7 @@ This project demonstrates **subnetting inside an organization** and how devices 
 
 ## Network Topology
 - A **Main Router** connects all department switches.
-- Each **Department (HR, IT, Finance, Marketing) has its own switch**.
+- Each **Department (CSE, Civil, ISE, ECE) has its own switch**.
 - **PCs in each department communicate through their switch**.
 - The **Main Router handles inter-subnet communication**.
 
